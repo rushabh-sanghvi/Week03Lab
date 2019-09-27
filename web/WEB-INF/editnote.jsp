@@ -16,7 +16,7 @@
         <h2>Edit Note</h2>
         <form action="note" method="post">
         Title: <input type="text" name="showTitle" size="15" value="${note.title}"><br>
-        Contents: ​<input type="text" name="showContent" size="50" value="${note.content}" style="width: 200px;height:200px">
+        Contents: ​<input type="text" name="showContent" size="50" value="${note.content}" style="width: 210px;height:210px">
         <br>
          <input type="submit" value="Save">
         </form>
